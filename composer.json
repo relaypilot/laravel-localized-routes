@@ -9,8 +9,7 @@
 "language",
 "country",
 "routes",
-"routing",
-"translation"
+"routing"
 ],
 "license": "MIT",
 "authors": [
